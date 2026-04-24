@@ -12,7 +12,7 @@
 
 ## 🧠 Sobre mí
 
-<img width="32%" align="right" src="https://github.com/ALFER15/ALFER15/blob/9e5213963ddaaae6cac08717753943c4d6947ed3/ima.png?raw=true" />
+<img width="45%" align="right" src="https://github.com/ALFER15/ALFER15/blob/9e5213963ddaaae6cac08717753943c4d6947ed3/ima.png?raw=true" />
 
 * 🎓 Ingeniería en Software
 * 📊 Enfocado en **Data, SQL y Analytics**
