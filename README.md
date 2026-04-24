@@ -1,81 +1,70 @@
-<h1 align="center">Alan Fernando Arias</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Fernando Arias
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Data+%7C+Backend+%7C+Cloud;Building+with+real+data;SQL+%2B+Python+%2B+Analytics" />
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/8f/1a/8b/8f1a8b60c4b0d6d7b6a4a4c7b6f2b5c3.gif" width="70%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00F7FF&size=25&center=true&vCenter=true&width=900&height=40&lines=Data+%7C+Backend+%7C+Cloud;Working+with+real+data;SQL+%2B+Python+%2B+Analytics" />
 </p>
 
 ---
 
-## 🧠 About
+## 🧠 Sobre mí
 
-```txt
-Data-oriented mindset. Focused on building systems that process, analyze and extract value from data.
-```
+<img width="40%" align="right" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 * 🎓 Ingeniería en Software
-* 📊 Enfoque en Data, SQL y Analytics
-* ☁️ Interés en Cloud (Azure)
-* ⚙️ Orientado a eficiencia y rendimiento
-* 🧩 Construyo soluciones, no solo teoría
+* 📊 Enfocado en **Data, SQL y Analytics**
+* ☁️ Interés en **Cloud (Azure)**
+* ⚙️ Me enfoco en eficiencia y sistemas bien diseñados
+* 🧩 Construyo soluciones prácticas basadas en datos
 
 ---
 
-## ⚙️ Stack
+## ⚙️ Tech Stack
 
-<p align="center">
+### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,postgres,azure,git" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 
-</p>
+### 💻 Backend / Data
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ---
 
-## 🚀 Project Highlight
+## 🚀 Proyecto Destacado
 
-### Logs Analytics Project
+### 📊 Logs Analytics Project
 
-Sistema de análisis de logs de APIs diseñado para trabajar con grandes volúmenes de datos.
+Sistema de análisis de logs de APIs orientado a trabajar con grandes volúmenes de datos.
 
-* Procesamiento de datos con Python
-* Modelado y consultas en PostgreSQL
-* Visualización en Power BI
+* Procesamiento con **Python**
+* Modelado y consultas en **PostgreSQL**
+* Visualización en **Power BI**
 * Enfoque en detección de patrones y optimización
 
-```txt
-Goal → Transform raw logs into actionable insights
-```
+👉 Resultado: generación de insights para mejorar rendimiento de sistemas
 
 ---
 
-## 🎯 Focus
+## 🎯 Enfoque Actual
 
-* Data pipelines
-* SQL optimization
-* Backend systems
-* Cloud fundamentals
+* 📈 Data analysis & pipelines
+* 🧠 Optimización de queries SQL
+* ☁️ Fundamentos de cloud (Azure)
+* 📊 Visualización de datos
 
 ---
 
-## 📫 Contact
+## 📫 Contacto
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/alan-fernando-arias-guerrero-60645123b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:alanf.arias.gro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+* 💼 https://www.linkedin.com/in/alan-fernando-arias-guerrero-60645123b/
+* 📧 [alanf.arias.gro@gmail.com](mailto:alanf.arias.gro@gmail.com)
 
 ---
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:ALFER15?theme=rule34" />
+  <img src="https://count.getloli.com/get/@:ALFER15?theme=moebooru" />
 </p>
