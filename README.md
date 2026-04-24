@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ALFER15/ALFER15/blob/5254e9b4ddd620c3101fd4b9db09ff11a3c8dc6d/banner.gif?raw=true" height="240px" />
+  <img src="https://github.com/ALFER15/ALFER15/blob/5254e9b4ddd620c3101fd4b9db09ff11a3c8dc6d/banner.gif?raw=true" width="85%" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Guerrero
@@ -12,7 +12,8 @@
 
 ## 🧠 Sobre mí
 
-<img width="45%" align="right" src="https://github.com/ALFER15/ALFER15/blob/9e5213963ddaaae6cac08717753943c4d6947ed3/ima.png?raw=true" />
+<img width="38%" align="right" style="margin-left: 20px;" src="https://github.com/ALFER15/ALFER15/blob/9e5213963ddaaae6cac08717753943c4d6947ed3/ima.png?raw=true" />
+
 * 🎓 Ingeniería en Software
 * 📊 Enfocado en **Data, SQL y Analytics**
 * ☁️ Interés en **Cloud (Azure)**
@@ -76,4 +77,4 @@ Sistema de análisis de logs de APIs orientado a trabajar con grandes volúmenes
 
 <p align="center">
   <img src="https://count.getloli.com/get/@:ALFER15?theme=moebooru" />
-</p>   ajustalo bien
+</p>
