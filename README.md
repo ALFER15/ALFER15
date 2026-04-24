@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hola, soy Alan
 
-<!--
-**ALFER15/ALFER15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Data / Backend / Cloud  
+📍 México  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- Estudiante de ingeniería en software
+- Intereses: Data, SQL, Cloud, Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+![Python](...)
+![SQL](...)
+![MongoDB](...)
+![Azure](...)
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALFER15&show_icons=true&theme=dark)
+
+## 📌 Proyectos
+- 🔹 Logs Analytics Project → breve descripción + link
+- 🔹 Otro proyecto → impacto + tech
+
+## 📫 Contacto
+- LinkedIn
+- Email
