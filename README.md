@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ALFER15/ALFER15/blob/7826c0f8f1baca5980e40c4d0048bafb8fd5e5e6/assets/banner.jpg?raw=true" width="100%" />
+  <img src="https://github.com/ALFER15/ALFER15/blob/5254e9b4ddd620c3101fd4b9db09ff11a3c8dc6d/banner.gif" width="100%" />
 </p>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Fernando Arias
