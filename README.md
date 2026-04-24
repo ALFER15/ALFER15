@@ -2,7 +2,7 @@
   <img src="https://github.com/ALFER15/ALFER15/blob/5254e9b4ddd620c3101fd4b9db09ff11a3c8dc6d/banner.gif?raw=true" height="240px" />
 </p>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Fernando Arias
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Guerrero
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00F7FF&size=24&center=true&vCenter=true&width=800&height=40&lines=Data+%7C+Backend+%7C+Cloud;Working+with+data;SQL+%2B+Python+%2B+Analytics" />
