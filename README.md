@@ -5,7 +5,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Alan Fernando Arias
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00F7FF&size=25&center=true&vCenter=true&width=900&height=40&lines=Data+%7C+Backend+%7C+Cloud;Working+with+real+data;SQL+%2B+Python+%2B+Analytics" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Futura&color=00F7FF&size=25&center=true&vCenter=true&width=900&height=40&lines=Data+%7C+Backend+%7C+Cloud;Working+with+data;SQL+%2B+Python+%2B+Analytics" />
 </p>
 
 ---
